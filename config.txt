@@ -1,0 +1,6 @@
+owner=416345923611000833
+prefix=M
+game=Mplay 
+stayinchannel=true
+songinstatus=false
+token=NTU1ODE2OTM4MzU4NzAyMDkx.D2wuJg.UCskLvn1tMUbpS0S5xRzPkNHOzo
